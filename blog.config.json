@@ -1,0 +1,34 @@
+{
+  "siteName": "Математика онлайн",
+  "siteUrl": "https://murzzsite.github.io/math-tutor-online",
+  "lang": "ru",
+  "repo": "murzzsite/math-tutor-online",
+  "ref": "CVGGH5GTTD",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи о подготовке к ОГЭ и ЕГЭ по математике, школьной программе и занятиях с репетитором",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Репетитор по математике",
+    "jobTitle": "",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Запишитесь на первое занятие со скидкой 50%: определим уровень ученика, разберём сложную тему и составим план подготовки.",
+  "ctaButton": "Записаться на занятие",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "6fac4fa01b038da7435968366c116f03",
+  "previewSecret": "19d67a1b27818b99",
+  "theme": {
+    "ink": "var(--ink)",
+    "soft": "var(--navy-soft)",
+    "line": "var(--line)"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /math-tutor-online/blog/preview/
+
+Sitemap: https://murzzsite.github.io/math-tutor-online/sitemap.xml
