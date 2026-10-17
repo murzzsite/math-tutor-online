@@ -1,16 +1,14 @@
 {
   "site": "https://murzzsite.github.io/math-tutor-online",
   "updated": "2026-10-17",
-  "awaiting": [
+  "awaiting": [],
+  "scheduled": [],
+  "published": [
     {
       "slug": "kak-podgotovitsya-k-oge-po-matematike",
-      "path": "articles/kak-podgotovitsya-k-oge-po-matematike.md",
       "title": "Как подготовиться к ОГЭ по математике: с чего начать и как построить план на год",
-      "description": "С чего начать подготовку к ОГЭ по математике, как построить план на учебный год, какие ошибки допускают чаще всего и когда нужен репетитор. Разбор для родителей.",
-      "reading_time": "8 мин чтения",
-      "preview_url": "https://murzzsite.github.io/math-tutor-online/blog/preview/81b97d08d928/kak-podgotovitsya-k-oge-po-matematike/"
+      "url": "https://murzzsite.github.io/math-tutor-online/blog/kak-podgotovitsya-k-oge-po-matematike/",
+      "date": "2026-10-17"
     }
-  ],
-  "scheduled": [],
-  "published": []
+  ]
 }
